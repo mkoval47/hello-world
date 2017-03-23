@@ -1,3 +1,3 @@
-# hello-world
+# test file na GITmerge automated jenkins test
 
-#this is just a comment
+echo "Hello Martin"
